@@ -1,4 +1,4 @@
-# **Udacity Data Engineer Poject - Data Modeling with Postgres**
+# **Udacity Data Engineer Project - Data Modeling with Postgres**
 ### Introduction
 
 A startup called Sparkify wants to analyze the data its been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. Currently, Sparkify does not have an easy way to query its data, which resides in a directory of JSON logs of user activity on the app, as well as a directory with JSON metadata on the songs in their app.
