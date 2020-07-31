@@ -1,5 +1,3 @@
-sql_queries.py
-
 # DROP TABLES
 
 songplay_table_drop = "DROP TABLE IF EXISTS songplays;"
